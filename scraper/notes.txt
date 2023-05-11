@@ -1,0 +1,54 @@
+
+each page 16 movies
+22,000 movies
+
+Movies:
+    documentary: 33 pages
+
+    music: 19 pages
+
+    adventure: 101 pages
+
+    comedy: 175 pages
+
+    mystery: 65 pages
+
+    strange: 2 pages
+
+    family: 24 pages
+
+    sport: 6 pages
+
+    romantic: 69 pages
+
+    horror: 138 pages
+
+    drama: 300 pages 
+
+    science fiction: 47 pages
+
+    fantasy: 16 pages 
+
+    war: 10 pages
+
+    crime: 64 pages
+
+    history: 8 pages
+
+    anime: 36 pages
+
+    action: 144 pages
+
+    thrilling: 125 pages
+
+
+{
+    id
+    title
+    language
+    categories
+    duration
+    image_url
+    video_source_file_url
+    date_added
+}
